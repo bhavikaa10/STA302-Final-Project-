@@ -1,4 +1,4 @@
-# STA302-Final-Project- Exploring the Effects of Lifestyle Habits on HDL Cholesterol Levels
+# STA302 Final Project- Exploring the Effects of Lifestyle Habits on HDL Cholesterol Levels
 
 ## Project Overview
 This project examines whether lifestyle choices—specifically smoking, physical activity, sleep duration, and alcohol consumption—significantly affect HDL (high-density lipoprotein) cholesterol levels in U.S. adults, while controlling for demographic characteristics such as sex, race, and age.
