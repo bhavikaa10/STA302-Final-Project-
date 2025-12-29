@@ -86,7 +86,7 @@ https://utoronto-my.sharepoint.com/:v:/g/personal/vedika_patil_mail_utoronto_ca/
 ---
 
 ## Authors
- Vedika Patil
+- Vedika Patil
 - Mariana Garcia Mejia
 - Bhavikaa Goenka
 
